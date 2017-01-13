@@ -7,7 +7,7 @@ This time, the player will be on the villain side helping to protect the
 secret weapon "Death Star". Keep the asteroids from hitting Death Star by
 destroying them with your weapon!
 
-![game](./docs/wireframes/start-demo.png)
+![game](./doc/storyline_demo.png)
 
 [link]: http://henryhsu.life/Drama-search/
 
