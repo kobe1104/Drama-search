@@ -1,25 +1,18 @@
 .search {
-  /*background-color: #93d5f2;*/
-  /*border: 1px solid black;*/
   display: flex;
   flex-direction: row;
-  /*width: 500px;*/
-  padding-right: 0;
+  justify-content: center;
 }
 
-
 .search-box {
-  /*border: 2px solid #ccc;*/
   border: none;
   border-bottom: 2px solid #ccc;
   background-image: url("http://www.w3schools.com/howto/searchicon.png");
   background-repeat: no-repeat;
-  /*border-radius: 4px;*/
   width: 300px;
   height: 30px;
   font-size: 15px;
   padding: 0 0 0 30px;
-  /*margin-left: 600px;*/
 }
 
 .search-box:focus {
@@ -27,10 +20,10 @@
 }
 
 .search-results-ul {
-  /*border: 1px solid red;*/
   width: 400px;
-  /*max-height: 480px;*/
-  /*overflow:scroll;*/
+  max-height: 480px;
+  overflow:scroll;
+  padding: 0;
 }
 
 .search-results-ul img {
@@ -40,7 +33,6 @@
 }
 
 .search-results-ul li {
-  /*width: 300px;*/
   border: 1px solid #ccc;
   list-style: none;
   display: flex;
@@ -55,11 +47,4 @@
 
 .search-results-ul li div {
   margin-top: 30px;
-}
-
-
-.checkbox {
-  /*border: 1px solid black;*/
-  /*width: 200;*/
-  
 }
