@@ -1,8 +1,10 @@
 .search {
   /*background-color: #93d5f2;*/
   border: 1px solid black;
-  display: flex;
-  flex-direction: column;
+  /*display: flex;
+  flex-direction: column;*/
+  width: 500px;
+  padding-right: 0;
 }
 
 
@@ -13,9 +15,9 @@
   background-image: url("http://www.w3schools.com/howto/searchicon.png");
   background-repeat: no-repeat;
   /*border-radius: 4px;*/
-  width: 200px;
+  width: 300px;
   height: 30px;
-  font-size: 16px;
+  font-size: 15px;
   padding: 0 0 0 30px;
   /*margin-left: 600px;*/
 }
@@ -26,12 +28,13 @@
 
 .search-results-ul {
   border: 1px solid red;
-  width: 300px;
+  width: 400px;
 }
 
 .search-results-ul img {
   width: 80px;
   height: auto;
+  padding-right: 15px;
 }
 
 .search-results-ul li {
