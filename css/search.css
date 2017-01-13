@@ -51,6 +51,7 @@ body {
 .search-results-ul li {
   border: 1px solid #ccc;
   border-radius: 4px;
+  width: 330px;
   max-width: 350px;
   list-style: none;
   display: flex;
@@ -75,4 +76,5 @@ body {
 
 label {
   font-family: 'Source Sans Pro', sans-serif;
+  color: #999999;
 }
