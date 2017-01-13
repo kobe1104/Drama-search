@@ -7,7 +7,7 @@ It uses Viki API to retrieve the most popular videos from Korea, Taiwan, Japan
 and China.
 
 ![demo](docs/storyline_demo.png)
-[link]: http://henryhsu.life/Drama-search/
+[link]: http://henryhsu.life/StoryLine/
 
 ## Features & Implementation
 
