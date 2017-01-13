@@ -69,6 +69,10 @@ body {
   margin-top: 30px;
 }
 
+.checkbox-container {
+  margin-top: 7px;
+}
+
 label {
   font-family: 'Source Sans Pro', sans-serif;
 }
