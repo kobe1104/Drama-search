@@ -7,17 +7,20 @@ It uses Viki API to retrieve the most popular videos from Korea, Taiwan, Japan
 and China.
 
 ![demo](docs/storyline_demo.png)
-
 [link]: http://henryhsu.life/Drama-search/
 
 ## Features & Implementation
 
 ### Search Engine
 
-#### Viki API
-
+#### REST API
+  An Ajax request is called upon search and returns an array of objects
+  that contains titles, images, ids, etc.. Then they are made into lists
+  and rendered.
+  ![demo2](docs/api_demo.png)
 #### Search Logic
-
+  The API has a search string property that is used for matching. And a
+  'include people' property that decides whether to include celebrity items.
 ## Future Directions for the Project
 
 ### User Preference
