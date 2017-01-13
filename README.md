@@ -3,10 +3,10 @@
 [StoryLine Live][link]
 
 StoryLine is an entertainment search engine focuses on television series.
-It uses Viki API to retrieve the latest videos from Korea, Taiwan, Japan
+It uses Viki API to retrieve the most popular videos from Korea, Taiwan, Japan
 and China.
 
-![demo](/doc/storyline_demo.png)
+![demo](storyline_demo.png)
 
 [link]: http://henryhsu.life/Drama-search/
 
