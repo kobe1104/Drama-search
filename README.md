@@ -1,6 +1,6 @@
 # StoryLine
 
-[Story Line live][link]
+[StoryLine live][link]
 
 [link]: http://henryhsu.life/StoryLine/
 
