@@ -1,8 +1,8 @@
 # StoryLine
 
-[Story Line live][chrome]
+[Story Line live][link]
 
-[chrome]: http://google.com
+[link]: http://henryhsu.life/StoryLine/
 
 StoryLine is an entertainment search engine focuses on television series.
 It uses Viki API to retrieve the most popular videos from Korea, Taiwan, Japan
